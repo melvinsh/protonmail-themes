@@ -1,0 +1,19 @@
+- name: Black Rock
+  author: Jack.A
+  description: Green and black theme.
+  img: http://67.media.tumblr.com/ac47d17d050cd3e56343d7c4b4300bd1/tumblr_o559zubpzl1uv4a0lo1_1280.png
+  source_url: http://protonmail.tumblr.com/post/142302538918/protonmail-custom-theme-black-rock-modified
+- name: Edison Theme
+  author: Unknown
+  description: A minimalist theme for ProtonMail. Monospaced font, clean, high-contrast colors.
+  img: http://67.media.tumblr.com/9c63799416ddb12f59e0044dc5ee9fb2/tumblr_inline_no05719tQC1tu49ik_1280.png
+  source_url: http://protonmail.tumblr.com/post/118397857653/edison-theme
+- name: Gmail style
+  author: Melvin Lammerts
+  description: A clean theme inspired by Gmail.
+  img: https://pbs.twimg.com/media/Cs4r2XEWEAA1Wy_.png
+  source_url: https://gist.github.com/melvinsh/a2a8710112c1a5c0722c88bc6ee70f7d
+- name: Metallic Blue
+  author: Udara Madubhashana
+  description: Metallic blue theme.
+  img: http://i.imgur.com/XYamhSz.jpg

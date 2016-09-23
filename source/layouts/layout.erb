@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<title><%= current_page.data.title || "ProtonMail Themes" %></title>
+
+<%= stylesheet_link_tag :semantic %>
+<%= stylesheet_link_tag :site %>
+
+<div class="ui fixed menu">
+  <div class="ui container">
+    <a href="#" class="header item">
+      ProtonMail Themes
+    </a>
+    <a href="#" class="item">All Themes</a>
+    <a href="#" class="item">Submit</a>
+  </div>
+</div>
+
+<div id="container" class="ui container">
+  <%= yield %>
+</div>
+
+<%= javascript_include_tag :jquery %>
+<%= javascript_include_tag :semantic %>
