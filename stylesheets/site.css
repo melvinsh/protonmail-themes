@@ -1,12 +1,1 @@
-.ui.menu {
-  height: 53px;
-  background: #505061;
-}
-
-.ui.menu a.item {
-  color: white !important;
-}
-
-#container {
-  margin-top: 100px;
-}
+.ui.menu{height:53px;background:#505061}.ui.menu a.item{color:white !important}#container{margin-top:100px}
