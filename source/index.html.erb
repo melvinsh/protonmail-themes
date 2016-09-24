@@ -4,10 +4,8 @@ title: ProtonMail Themes - All Themes
 
 <h1>All Themes</h1>
 
-<% data.themes.each_slice(3) do |row| %>
-  <div class="ui three cards">
-    <% row.each do |theme| %>
-      <%= partial(:theme, :locals => { :theme => theme }) %>
-    <% end %>
-  </div>
+<div class="ui three stackable cards">
+<% data.themes.each do |theme| %>
+  <%= partial(:theme, :locals => { :theme => theme }) %>
 <% end %>
+</div>
